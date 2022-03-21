@@ -1,0 +1,9 @@
+[package]
+name = "bytebit/must"
+description = "Just a simple function that errors out if the argument is nil / undefined."
+version = "0.0.1"
+license = "MIT"
+registry = "https://github.com/UpliftGames/wally-index"
+realm = "shared"
+
+[dependencies]
