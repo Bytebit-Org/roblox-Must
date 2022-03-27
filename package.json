@@ -1,6 +1,6 @@
 {
   "name": "@rbxts/must",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Just a simple function that errors out if the argument is nil / undefined.",
   "main": "out/init.lua",
   "scripts": {
