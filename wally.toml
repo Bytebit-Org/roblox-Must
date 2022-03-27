@@ -1,7 +1,7 @@
 [package]
 name = "bytebit/must"
 description = "Just a simple function that errors out if the argument is nil / undefined."
-version = "1.0.1"
+version = "1.0.2"
 license = "MIT"
 registry = "https://github.com/UpliftGames/wally-index"
 realm = "shared"
